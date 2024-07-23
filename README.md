@@ -1,4 +1,4 @@
 # Olympic-Azure-Data-Eng-Project
 # Architecture diagram
 
-![alt text](https://i.imgur.com/a/wSZ8QQo.png "Azure")
+![alt text](https://i.imgur.com/U58p480.jpg)
